@@ -1,4 +1,4 @@
-### Pithik Q Culinary
+### PithikQ Culinary
 
 <!--
 **PithikQ/PithikQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
